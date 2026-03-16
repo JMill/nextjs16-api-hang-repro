@@ -1,0 +1,12 @@
+{
+  "name": "nextjs16-api-hang-repro",
+  "private": true,
+  "packageManager": "pnpm@10.29.3",
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev"
+  },
+  "devDependencies": {
+    "turbo": "^2.8.13"
+  }
+}
